@@ -1,1 +1,1 @@
-# PhotoGallery---aplicatie-pentru-licenta
+# PhotoGallery - aplicatie pentru licenta
