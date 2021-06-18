@@ -1,1 +1,1 @@
-# PhotoGallery - aplicatie pentru licenta
+Documentatie.pdf
